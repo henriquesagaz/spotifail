@@ -1,6 +1,8 @@
 # Spotifail
-Este é um projeto de estudos e atividade proposta pela SharpCoders.
+Este é um projeto de estudos prático, proposto pela SharpCoders.
 
-## Print do projeto
+### Link do projeto
+https://henriquesagaz.github.io/spotifail/
 
-## Link do projeto
+### Print do projeto
+![image](https://github.com/henriquesagaz/spotifail/assets/101719511/185d3eca-37fd-4e06-86d8-2a3f8ca5b1a6)
